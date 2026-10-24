@@ -1,2 +1,7 @@
-# milana-work-board-releases
-Milana Work Board: installer and updates (releases only, no source code)
+# Milana Work Board — выпуски
+
+Здесь лежат только установщик и обновления программы Milana Work Board. Исходного кода в этом репозитории нет.
+
+- **Установка:** скачай `Milana.WorkBoard-win-Setup.exe` из последнего выпуска (Releases) и запусти. Права администратора не нужны.
+- **Обновления** программа скачивает отсюда сама и ставит при следующем запуске.
+- Ключ Claude в программу не вшит: его вставляют один раз в настройках.
